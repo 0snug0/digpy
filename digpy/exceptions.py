@@ -1,0 +1,2 @@
+class DigException(Exception):
+    pass
